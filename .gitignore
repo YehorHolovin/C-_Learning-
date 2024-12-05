@@ -1,0 +1,19 @@
+# Виключити системні файли та папки
+*.log
+*.tmp
+*.cache
+.DS_Store
+*.ini
+*.db
+*.vscode/
+*.pio/
+
+# Виключити специфічні директорії
+Desktop/
+Documents/
+AppData/
+Downloads/
+Music/
+Pictures/
+Videos/
+
